@@ -5,19 +5,19 @@ Table of Contents
 
     Python Basics: Brush up on your Python skills. Python is a versatile programming language commonly used in data science and machine learning projects.
     
-    Feature Engineering: Master the art of feature engineering. Feature engineering involves transforming raw data into informative features, enhancing the performance of machine learning models.
+    Feature Engineering: Feature engineering involves transforming raw data into informative features, enhancing the performance of machine learning models.
     
-    Linear Regression: Understand linear regression from the ground up. Linear regression is a linear approach to modeling the relationship between a dependent variable and one or more independent variables, commonly used for prediction and forecasting.
+    Linear Regression: is a linear approach to modeling the relationship between a dependent variable and one or more independent variables, commonly used for prediction and forecasting.
     
-    Logistic Regression: Delve into logistic regression and its applications. Logistic regression is widely used for binary classification tasks, predicting the probability of an instance belonging to a particular class.
+    Logistic Regression: is widely used for binary classification tasks, predicting the probability of an instance belonging to a particular class.
     
-    Clustering: Explore the world of clustering algorithms. Clustering is used for grouping similar data points together, making it a fundamental technique in unsupervised learning.
+    Clustering: Clustering is used for grouping similar data points together, making it a fundamental technique in unsupervised learning.
 
-    Decision Trees: Dive into the intricacies of decision tree algorithms. Decision trees are versatile tools used for both classification and regression tasks, making them essential in various domains.
+    Decision Trees: are versatile tools used for both classification and regression tasks, making them essential in various domains.
 
-    Random Forest: Unravel the complexity of random forest algorithms. Random forests are ensembles of decision trees, combining their predictive power to achieve high accuracy in classification and regression tasks.
+    Random Forest: are ensembles of decision trees, combining their predictive power to achieve high accuracy in classification and regression tasks.
 
-    SVM (Support Vector Machines): Support Vector Machines are powerful classifiers used for both linear and non-linear data, making them valuable in various applications.
+    SVM (Support Vector Machines): are powerful classifiers used for both linear and non-linear data, making them valuable in various applications.
 
 How to Use This Guide
 

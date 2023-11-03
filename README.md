@@ -25,7 +25,7 @@ How to Use This Guide:
 Feel free to navigate through the folders to find the specific topic you're interested in. Each section contains detailed explanations, code snippets, and practical examples to enhance your understanding of machine learning concepts. Whether you're interested in unsupervised learning, regression, classification, or data preprocessing, you'll find valuable resources here.
 Contributing
 
-Contributing:
+Contributing:  
 I welcome contributions from the community! If you find errors, have suggestions for improvements, or want to add new content, please don't hesitate to create a pull request. Together, let's make this guide an even better resource for aspiring data scientists and machine learning enthusiasts.
 
 Happy learning!
